@@ -1,0 +1,7 @@
+{
+  "loginpage": {
+    "username": "#user_login",
+    "password": "#user_password",
+    "submit": "input[name=\"commit\"]"
+  }
+}
